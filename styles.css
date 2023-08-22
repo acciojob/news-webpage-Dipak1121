@@ -7,6 +7,7 @@
 #head{
     display: flex;
     color: white;
+	text-align: center;
     background-color: #011e29;
     justify-content: center;
     align-items: center;
@@ -23,7 +24,7 @@ img{
     width: 100px;
     height: 100px;
 }
-.pict{
+.pictorial-news-section{
     width: 15vw;
     display: flex;
     justify-content: center;
@@ -44,7 +45,7 @@ img{
     border-radius: 10px;
     margin: 10px;
 }
-.newsArt{
+.latest-news-section{
     width: 20vw;
     display: flex;
     flex-direction: column;
